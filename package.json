@@ -1,0 +1,20 @@
+{
+  "name": "most-common-turkish-words",
+  "version": "0.0.0",
+  "description": "List of most common 1000 Turkish words",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "turkish",
+    "words",
+    "turkce"
+  ],
+  "repository": {
+    "url": "git@github.com:azer\/most-common-turkish-words.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD"
+}
